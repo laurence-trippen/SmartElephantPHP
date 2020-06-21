@@ -23,4 +23,4 @@ define('DB_USER', 'root');
 define('DB_PASS', '');
 
 // Database Name
-define('DB_NAME', 'seaphp_sandbox');
+define('DB_NAME', '');
